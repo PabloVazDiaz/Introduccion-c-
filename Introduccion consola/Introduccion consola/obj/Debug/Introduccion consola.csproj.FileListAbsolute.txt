@@ -1,0 +1,7 @@
+C:\Users\Anonimo\source\repos\Introduccion consola\Introduccion consola\bin\Debug\Introduccion consola.exe.config
+C:\Users\Anonimo\source\repos\Introduccion consola\Introduccion consola\bin\Debug\Introduccion consola.exe
+C:\Users\Anonimo\source\repos\Introduccion consola\Introduccion consola\bin\Debug\Introduccion consola.pdb
+C:\Users\Anonimo\source\repos\Introduccion consola\Introduccion consola\obj\Debug\Introduccion consola.csprojResolveAssemblyReference.cache
+C:\Users\Anonimo\source\repos\Introduccion consola\Introduccion consola\obj\Debug\Introduccion consola.csproj.CoreCompileInputs.cache
+C:\Users\Anonimo\source\repos\Introduccion consola\Introduccion consola\obj\Debug\Introduccion consola.exe
+C:\Users\Anonimo\source\repos\Introduccion consola\Introduccion consola\obj\Debug\Introduccion consola.pdb
